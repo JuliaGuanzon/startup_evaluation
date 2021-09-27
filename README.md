@@ -72,5 +72,5 @@ nn_A2.add(Dense(units=number_output_neurons_A2, activation="sigmoid"))
 
 ## Summary
 
-The data had been fit as much as it can be after testing. The best score any data can acheive is 1, but the issue with that is it would most likely be imperfect. High scores mean a model is overfitted. Therefore, a score of .73 is a moderately good score as it is less than 1, but greater than 0.60. This model is ready to be used to evaluate startups.
+The data has been fit as much as it can be after testing. The best score any data can acheive is 1, but the issue with that is it would most likely be imperfect. High scores mean a model is overfitted. Therefore, a score of .73 is a moderately good score as it is less than 1, but greater than 0.60. This model is ready to be used to evaluate startups.
 
